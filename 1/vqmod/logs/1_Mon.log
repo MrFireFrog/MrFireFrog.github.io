@@ -1,0 +1,12 @@
+---------- Date: 2016-06-27 22:43:51 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=51d2738c3d7764e9f616e9400dc2b358
+MOD DETAILS:
+   modFile   : Y:\home\zanoza-shop.ru\www\vqmod/xml/import_yml.xml
+   id        : Import YML
+   version   : 1.5.3.x
+   vqmver    : 1.1.0
+   author    : Gennady Telegin, support@itxd.ru
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/common/header.php] (SKIPPED)
+----------------------------------------------------------------------
+
+

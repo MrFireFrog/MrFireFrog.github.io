@@ -1,0 +1,1 @@
+2016-06-27 22:53:20 - PHP Notice:  Error: Table 'popkorn.oc_manufacturer_description' doesn't exist<br />Error No: 1146<br />TRUNCATE TABLE  `oc_manufacturer_description` in Y:\home\zanoza-shop.ru\www\system\database\mysql.php on line 50
